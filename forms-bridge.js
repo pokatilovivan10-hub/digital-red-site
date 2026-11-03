@@ -1,7 +1,5 @@
 (() => {
-  const endpoint = location.pathname.startsWith('/digital-red-preview/')
-    ? '/digital-red-preview/api/web-leads'
-    : '/api/web-leads';
+  const endpoint = 'https://v753842.hosted-by-vdsina.com/digital-red-preview/api/web-leads';
 
   const clean = value => String(value || '').trim();
   const field = (form, names) => {
