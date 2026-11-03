@@ -1,0 +1,5 @@
+/* Server-copy compatibility fixes for Tilda popup interactions. */
+.t-popup.t-popup_show {
+  opacity: 1 !important;
+  transition-delay: 0s !important;
+}

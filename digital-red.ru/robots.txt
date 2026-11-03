@@ -1,0 +1,21 @@
+User-Agent: *
+Disallow: /page48919587.html
+Disallow: /header
+Disallow: /page48919643.html
+Disallow: /footer
+Disallow: /page48919695.html
+Disallow: /error
+Disallow: /page83211986.html
+Disallow: /tilda/form*
+Disallow: /tilda/rec*
+Disallow: /tilda/click*
+Disallow: /tilda/scroll*
+Disallow: /tilda/popup*
+Disallow: /tilda/cart*
+Disallow: /tilda/product*
+Disallow: /tilda/event*
+Disallow:
+
+
+Sitemap: https://digital-red.ru/sitemap.xml
+Sitemap: https://digital-red.ru/sitemap-store.xml
